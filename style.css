@@ -1,0 +1,109 @@
+.banner_content{
+    margin-top: -400px;
+    color: white;
+}
+
+.banner_text{
+    font-size: 60px;
+}
+
+.law{
+    margin-top: 250px;
+}
+
+.input-box-1 {
+    border: none;
+    outline: none;
+    background-color: #F3F3F3;
+    margin-right: 5px;
+    width: 400px;
+    padding: 10px 5px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.input-box-2 {
+    border: none;
+    outline: none;
+    background-color: #F3F3F3;
+    margin-right: 5px;
+    width: 400px;
+    padding: 10px 5px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.anchor {
+    text-decoration: none;
+    background: #B68C5A;
+    margin-left: 5px;
+    padding: 13px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.nav-btn{
+    background: #B68C5A;
+}
+
+.anchor-contact {
+    text-decoration: none;
+    background: #B68C5A;
+    padding: 13px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.caro{
+    width: 1000px;
+    margin-left: 400px;
+}
+
+.faq-img{
+    height: 500px;
+}
+
+.client{
+    margin-top: 100px;
+}
+
+.carousel-image{
+    height: 500px;
+}
+
+.car-img{
+    width: 100px;
+    height: 100px;
+}
+
+.questions{
+    margin-top: 100px;
+}
+
+.contact{
+    margin-top: 100px;
+}
+
+.footer {
+    margin-top: -300px;
+    color: white;
+}
+
+.img{
+    margin-top: 100px;
+    height: 400px;
+    width: 1900px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+}
+
+.text-align{
+    text-align: left;
+}
